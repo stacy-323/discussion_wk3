@@ -1,0 +1,54 @@
+/* Style the body */
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif; /* Change to your desired font */
+    color: #ffffff; /* Change to your desired text color */
+    margin: 10px;
+    background-color: #3c6747;
+}
+
+/* Style headers */
+h1, h2, h3 {
+    font-weight: bold;
+    color: #ffffff; /* Change to your desired header color */
+    background-color: #073816;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Style your images */
+img {
+    height: 250px; /* Customize the height */
+    width: 350px;  /* Customize the width */
+    border: 3px solid #073816; /* Add a border around images */
+    border-radius: 10px; /* Optional: rounded corners */
+}
+
+main {
+    background-color: #073816;
+    padding: 20px;
+    border-radius: 10px; /* Optional: rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+}
+
+footer {
+    background-color: #073816;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Style links */
+a {
+  color: white; /* Normal link color */
+}
+
+a:visited {
+  color: beige; /* Visited link color */
+}
+
+a:hover {
+  color: brown; /* Hover color */
+}
+
+a:active {
+  color: red; /* Active link color */
+}
